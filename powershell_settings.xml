@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Settings>
+  <DefaultSite>twitch.tv</DefaultSite>
+  <DefaultStream>totalbiscuit</DefaultStream>
+  <DefaultQuality>best</DefaultQuality>
+  <CrunchyRollUser>exampleuser</CrunhyRollUser>
+  <CrunchyRollPassword>examplepassword</CrunchyRollPassword>
+  <CrunchyRollQuality>ultra</CrunchyRollQuality>
+</Settings>
