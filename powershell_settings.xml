@@ -6,4 +6,5 @@
   <CrunchyRollUser>exampleuser</CrunhyRollUser>
   <CrunchyRollPassword>examplepassword</CrunchyRollPassword>
   <CrunchyRollQuality>ultra</CrunchyRollQuality>
+  <VlcPath>E:\VLC\vlc.exe</VlcPath>
 </Settings>
